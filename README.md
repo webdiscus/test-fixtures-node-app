@@ -1,1 +1,1 @@
-# test-fixtures-node-app
+# Test fixture node app
