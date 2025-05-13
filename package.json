@@ -1,5 +1,5 @@
 {
-  "name": "test-fixtures-node-app",
+  "name": "test-fixtures-node-pm2",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

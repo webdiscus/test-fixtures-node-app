@@ -1,12 +1,12 @@
 module.exports = {
   apps: [
     {
-      name: 'docker-test-app',
+      name: 'docker-pm2-test',
       script: 'npm',
       args: 'start',
       env: {
         NODE_ENV: 'production',
-        PORT: 3000
+        FORCE_COLOR: 1
       },
     },
   ],
